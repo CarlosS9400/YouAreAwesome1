@@ -10,11 +10,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "swift")
+            Image(systemName: "laptopcomputer.and.iphone")
                 .resizable()
                 .scaledToFit()
                 .foregroundStyle(.orange)
-            Text("You are Awesome!")
+            Text("I am a developer")
                 .font(.largeTitle)
                 .fontWeight(.heavy)
                 .foregroundStyle(.red)
